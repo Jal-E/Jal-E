@@ -12,6 +12,7 @@
 - 📫 You can reach me via:
   - **LinkedIn**: [Anjali Rai](https://www.linkedin.com/in/anjalirai0706/)
   - **Email**: jalraibhardwaj@gmail.com
+  - **Website**: https://jal-e.github.io/Portfolio-website
 
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I've studied for the **UPSC** exam in India, which has given me a unique perspective on problem-solving and self-learning.
